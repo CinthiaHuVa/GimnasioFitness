@@ -1,6 +1,6 @@
-#Fitness Animal GYM
+# Fitness Animal GYM
 
-# Express, Passport, PostgreSQL login boilerplate
+# Express, Passport, PostgreSQL
 
 ## Uso
 Crear la Base de datos en PostegreSQL y crear las tablas necesarias --> (database/tables.sql)
